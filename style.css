@@ -1,0 +1,80 @@
+body{
+    background: rgb(0, 0, 0);
+}
+tr>td{
+    color: white;
+}
+b>i{
+    color: green;
+}
+.a1{
+    position: relative;
+} 
+.a2 img{
+    max-width: 100%;
+    height: auto;
+} 
+.fa-television{
+    color: green;
+}
+.fa-hourglass-start{
+    color: green;
+}
+.fa-database{
+    color: green;
+}
+.fa-shield{
+    color: green;
+}
+{
+    margin: 3%;
+    position: relative;
+}
+
+.first-txt {
+    position: relative;
+    bottom: 247px;
+    left: 227px;
+    
+}
+
+    .second-txt {
+        position: absolute;
+        bottom: 200px;
+        left: 267px;
+        color: rgb(8, 173, 8);
+        
+    } 
+    .fa {
+        padding: 10px;
+        font-size: 20px;
+        width: 10px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .fa-facebook {
+        background: #3B5998;
+        color: white;
+        position: absolute;
+        bottom: 177px;
+        left: 280px;
+
+      }
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+        position: absolute;
+        bottom: 177px;
+        left: 317px;
+      }
+     .fa-whatsapp {
+         background: green;
+         color: white;
+         position: absolute;
+         bottom: 177px;
+         left: 357px;
+     }
+
+
+      
